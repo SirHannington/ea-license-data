@@ -4,12 +4,14 @@
     {
       "key": "ABC123",
       "accounts": ["81492441", "7124059", "1511733685", "52529921"],
-      "expiry": "2025-12-31"
+      "expiry": "2025-12-31",
+      "eaname": "H"        // ✅ The exact EA name enforced
     },
     {
       "key": "VIP2025",
       "accounts": ["11223344"],
-      "expiry": "2026-01-15"
+      "expiry": "2026-01-15",
+      "eaname": "H"        // ✅ The exact EA name enforced
     }
   ]
 }
