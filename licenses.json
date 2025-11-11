@@ -9,7 +9,7 @@
     },
     {
       "key": "K123",
-      "accounts": ["81498652"],
+      "accounts": ["81498652", "1512047538"],
       "expiry": "2025-12-15",
       "eaname": "Trader Hanni... ( EA )"        // ✅ The exact EA name enforced
     }
